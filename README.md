@@ -2,9 +2,9 @@
 
 RockPaperScissors is a user interface for the Aptos RockPaperScissors Game smart contract.
 
-[Live app](https://rockpaperscissors-flame-beta.vercel.app/)
+[Demo app](https://rockpaperscissors-flame-beta.vercel.app/)
 
-[Video Demo](https://www.loom.com/share/cb17d50a430543e8a41467321d2c63d6?sid=b21169cf-07c5-49cf-8110-a0a1a93eca25)
+[Video](https://www.loom.com/share/cb17d50a430543e8a41467321d2c63d6?sid=b21169cf-07c5-49cf-8110-a0a1a93eca25)
 
 [Smart Contract](https://aptoscan.com/account/0x7ceb17f0ef05939768914cf7fb5aaeb4f3b14916f388a4e103a1090a487e1fc2?network=testnet)
 
