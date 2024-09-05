@@ -12,7 +12,7 @@ RockPaperScissors is a user interface for the Aptos RockPaperScissors Game smart
 
 1. Clone repo and change directory:
 ```bash
-  git clone https://github.com/balojey/rockpaperscissors ; cd rockpaperscissors
+  git clone https://github.com/dwhitehatguy/rockpaperscissors ; cd rockpaperscissors
 ```
 2. Install depedencies and run app:
 ```bash
