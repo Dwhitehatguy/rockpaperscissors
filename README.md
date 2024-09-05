@@ -21,10 +21,8 @@ RockPaperScissors is a user interface for the Aptos RockPaperScissors Game smart
 
 ## Demo
 
-![alt Connect page](./assets/demo3.png)
+![alt Connect page](./assets/rock_paper_1.png)
 
-![alt Swap page demo 1](./assets/demo1.png)
-
-![alt Swap page demo 3](./assets/demo2.png)
+![alt Swap page demo 1](./assets/rock_paper_2.png)
 
 Thanks.
